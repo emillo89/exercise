@@ -1,4 +1,7 @@
+This is the new line in master
+
 This is the new line in branch
+
 5. Modyfikacja pliku 1.txt
 Excercise 2:
 modyfikacja z brancha: new_branch
