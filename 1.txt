@@ -1,3 +1,4 @@
+Zmiana od drugiego uzytkownika
 This is the new line in master
 5. Modyfikacja pliku 1.txt
 Excercise 2:
