@@ -1,1 +1,3 @@
 5. Modyfikacja pliku 1.txt
+Excercise 2:
+modyfikacja z brancha: new_branch
