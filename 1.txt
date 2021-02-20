@@ -1,3 +1,5 @@
+Modyfikacja od Uzytkownika1 i Uzytkownika2
+
 This is the new line in master
 
 This is the new line in branch
